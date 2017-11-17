@@ -1,0 +1,28 @@
+{
+  "name": "ng-next",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosMota/ng-next"
+  },
+  "author": {
+    "name": "Marcos Vinicius Mota Lopes",
+    "email": "marcos.mota287@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosMota/ng-next/issues"
+  },
+  "main": "ng-next.umd.js",
+  "module": "ng-next.js",
+  "jsnext:main": "ng-next.js",
+  "typings": "ng-next.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
